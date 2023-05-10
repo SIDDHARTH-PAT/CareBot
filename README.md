@@ -40,5 +40,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 # Acknowledgments
 Thank you to the contributors of Yashwardhan and Shruti fot this project along with the libraries used in this project:
 
-Flask
-ChatterBot
+<ul>Flask</ul>
+<ul>ChatterBot</ul>
